@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://faisalinfinity.github.io/csb-9y16gz/static/js/main.dd2bc06a.chunk.js",
+    "main.js.map": "https://faisalinfinity.github.io/csb-9y16gz/static/js/main.dd2bc06a.chunk.js.map",
+    "runtime-main.js": "https://faisalinfinity.github.io/csb-9y16gz/static/js/runtime-main.f22ae87e.js",
+    "runtime-main.js.map": "https://faisalinfinity.github.io/csb-9y16gz/static/js/runtime-main.f22ae87e.js.map",
+    "static/js/2.85069ebc.chunk.js": "https://faisalinfinity.github.io/csb-9y16gz/static/js/2.85069ebc.chunk.js",
+    "static/js/2.85069ebc.chunk.js.map": "https://faisalinfinity.github.io/csb-9y16gz/static/js/2.85069ebc.chunk.js.map",
+    "index.html": "https://faisalinfinity.github.io/csb-9y16gz/index.html",
+    "static/js/2.85069ebc.chunk.js.LICENSE.txt": "https://faisalinfinity.github.io/csb-9y16gz/static/js/2.85069ebc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f22ae87e.js",
+    "static/js/2.85069ebc.chunk.js",
+    "static/js/main.dd2bc06a.chunk.js"
+  ]
+}
